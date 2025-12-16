@@ -1,0 +1,13 @@
+#ifndef ACTION_HPP
+#define ACTION_HPP
+
+enum class ACTION
+{
+    VIEW_EMPLOYEE,
+    ADD_EMPLOYEE,
+    REMOVE_EMPLOYEE,
+    UPDATE_EMPLOYEE,
+    SEARCH_EMPLOYEE,
+};
+
+#endif
